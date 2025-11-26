@@ -1,7 +1,8 @@
 @use "../utils" as u;
 
 header.desktop {
-    background-color: var(--color-accent);
+    background-color: teal;
+    color: white;
 
     .wrapper {
         position: relative;
